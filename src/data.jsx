@@ -94,7 +94,7 @@ export const pricing = {
   plans: [
     {
       name: 'Basic',
-      price: '20',
+      price: '20,000',
       list: [
         { name: 'unlimited gym access' },
         { name: '1 training programs' },
@@ -104,7 +104,7 @@ export const pricing = {
     },
     {
       name: 'Premium',
-      price: '35',
+      price: '35,000',
       list: [
         { name: 'unlimited gym access' },
         { name: '5 training programs' },
@@ -115,7 +115,7 @@ export const pricing = {
     },
     {
       name: 'Elite',
-      price: '49',
+      price: '50,000',
       list: [
         { name: 'unlimited gym access' },
         { name: 'all training programs' },
