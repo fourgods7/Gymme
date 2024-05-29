@@ -166,22 +166,22 @@ export const faq = {
     {
       question: 'How can I book a workout class?',
       answer:
-        'Lorem ipsum dolor sit amet consectetur, adipisicing elit. Molestiae temporibus beatae, totam repudiandae nam recusandae ea dolores tempora maxime.',
+        'You just have to click on the sign-up button to register✅✅ and you can book as many classes as you want👊👊👊',
     },
     {
       question: 'Can I pay by cash for my membership?',
       answer:
-        'Lorem ipsum dolor sit amet consectetur, adipisicing elit. Molestiae temporibus beatae, totam repudiandae nam recusandae ea dolores tempora maxime.',
+        'We accept all kinds of money transactions💰💰, so you can pay in cash.',
     },
     {
       question: 'What age do I need to be to join?',
       answer:
-        'Lorem ipsum dolor sit amet consectetur, adipisicing elit. Molestiae temporibus beatae, totam repudiandae nam recusandae ea dolores tempora maxime.',
+        'There are no age restrictions only kids aren`t allowed in.',
     },
     {
       question: 'Are there any lockers?',
       answer:
-        'Lorem ipsum dolor sit amet consectetur, adipisicing elit. Molestiae temporibus beatae, totam repudiandae nam recusandae ea dolores tempora maxime.',
+        'There are lockers for members of the gym👊🏿👊🏿',
     },
     {
       question: 'How do I cancel my membership?',
@@ -191,7 +191,7 @@ export const faq = {
     {
       question: 'Is there water available at the gym?',
       answer:
-        'Lorem ipsum dolor sit amet consectetur, adipisicing elit. Molestiae temporibus beatae, totam repudiandae nam recusandae ea dolores tempora maxime.',
+        'There is water Available for both members and non-members🥛🥛.',
     },
   ],
 };
