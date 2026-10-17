@@ -26,12 +26,12 @@ export const header = {
 };
 
 export const nav = [
-  { name: 'Home', href: '/' },
-  { name: 'About', href: '/' },
-  { name: 'Workouts', href: '/' },
-  { name: 'Pricing', href: '/' },
-  { name: 'Community', href: '/' },
-  { name: 'FAQ', href: '/' },
+  { name: 'Home', href: '#home' },
+  { name: 'About', href: '#about' },
+  { name: 'Workouts', href: '#workouts' },
+  { name: 'Pricing', href: '#pricing' },
+  { name: 'Community', href: '#community' },
+  { name: 'FAQ', href: '#faq' },
 ];
 
 export const banner = {
@@ -57,34 +57,13 @@ export const workouts = {
   icon: CalendarIcn,
   title: 'Training programs',
   programs: [
-    {
-      image: ResistanceImg,
-      name: 'Resistance',
-    },
-    {
-      image: BoxingImg,
-      name: 'Boxing',
-    },
-    {
-      image: BodyPumpImg,
-      name: 'Body Pump',
-    },
-    {
-      image: YogaImg,
-      name: 'Yoga',
-    },
-    {
-      image: FullBodyImg,
-      name: 'Full Body',
-    },
-    {
-      image: FitnessImg,
-      name: 'Fitness',
-    },
-    {
-      image: BattleRopeImg,
-      name: 'Battle Rope',
-    },
+    { image: ResistanceImg, name: 'Resistance' },
+    { image: BoxingImg, name: 'Boxing' },
+    { image: BodyPumpImg, name: 'Body Pump' },
+    { image: YogaImg, name: 'Yoga' },
+    { image: FullBodyImg, name: 'Full Body' },
+    { image: FitnessImg, name: 'Fitness' },
+    { image: BattleRopeImg, name: 'Battle Rope' },
   ],
 };
 
@@ -175,23 +154,20 @@ export const faq = {
     },
     {
       question: 'What age do I need to be to join?',
-      answer:
-        'There are no age restrictions only kids aren`t allowed in.',
+      answer: 'There are no age restrictions only kids aren’t allowed in.',
     },
     {
       question: 'Are there any lockers?',
-      answer:
-        'There are lockers for members of the gym👊🏿👊🏿',
+      answer: 'There are lockers for members of the gym👊🏿👊🏿',
     },
     {
       question: 'How do I cancel my membership?',
       answer:
-        'Lorem ipsum dolor sit amet consectetur, adipisicing elit. Molestiae temporibus beatae, totam repudiandae nam recusandae ea dolores tempora maxime.',
+        'Lorem ipsum dolor sit amet consectetur, adipisicing elit. Molestiae beatae, totam repudiandae nam recusandae ea dolores tempora maxime.',
     },
     {
       question: 'Is there water available at the gym?',
-      answer:
-        'There is water Available for both members and non-members🥛🥛.',
+      answer: 'There is water available for both members and non-members🥛🥛.',
     },
   ],
 };
